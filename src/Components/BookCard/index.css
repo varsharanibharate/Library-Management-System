@@ -1,0 +1,59 @@
+li {
+    list-style-type: none;
+}
+
+.link-item {
+    text-decoration: none;
+}
+
+.book-container {
+    border: 2px #000000;
+    box-shadow: 1px;
+    height: 500px;
+    width: 300px;
+    margin-top: 30px;
+}
+
+.thumbnail {
+    width: 200px;
+    height: 200px;
+    border-radius: 6px;
+}
+  
+.title {
+    color: #171f46;
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 500;
+}
+  
+.author {
+    color: #594d6d;
+    font-family: 'Roboto';
+    font-size: 22px;
+}
+  
+.published-year {
+    color: #000000;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+.borrow-button {
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 14px;
+    color: #ffffff;
+    height: 40px;
+    width: 100px;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    background-color: #417aeb;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  
